@@ -13,7 +13,7 @@ Matlab resmi sayfası: https://www.mathworks.com
 
 Kitap Önerisi: https://www.seckin.com.tr/kitap/575269245
 
-Hazırlayan: İsmail KIRBAŞ
+Hazırlayan: İsmail KIRBAŞ https://www.researchgate.net/profile/Ismail_Kirbas2
 
 Dersler:
 
