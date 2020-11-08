@@ -8,7 +8,7 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Matlab resmi sayfası: https://www.mathworks.com
 
-GNU octave resmi sayfası:https://www.gnu.org/software/octave/index
+GNU octave resmi sayfası: https://www.gnu.org/software/octave/index
 
 SciLab resmi sayfası: https://www.scilab.org/
 
