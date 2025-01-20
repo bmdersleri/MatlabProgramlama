@@ -3,7 +3,7 @@ Matlab ders notları
 
 Youtube Kanalımız: BMDersleri
 
-Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
+Bağlantı: https://www.youtube.com/@bmderslerim
 
 Kısa Bağlantı: https://bit.ly/32k9MnJ
 
